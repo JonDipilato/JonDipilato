@@ -103,7 +103,7 @@ I build AI-native tools and automation systems — from lead generation engines 
 [![Website](https://img.shields.io/badge/dipilatoautomations.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://dipilatoautomations.com)
 [![YouTube](https://img.shields.io/badge/NoCode%20Abode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoCodeAbode)
 [![YouTube](https://img.shields.io/badge/@JonDiPilato-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JonDiPilato)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jondipilato/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
