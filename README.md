@@ -68,28 +68,28 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 <div align="center">
 
 <a href="https://github.com/JonDipilato/ai_news_automator">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/SaaS-Boilerplate">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=SaaS-Boilerplate&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=SaaS-Boilerplate&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/JonDipilato/bible-applied">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bible-applied&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bible-applied&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/bookingbot-saas">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bookingbot-saas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bookingbot-saas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/JonDipilato/automated-videos">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=automated-videos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=automated-videos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/investor-finder">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=investor-finder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=2" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=investor-finder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 
 </div>
