@@ -160,6 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Uploaded the ENTIRE Bible to AI and It Found Things I Never Saw](https://www.youtube.com/watch?v=EvCTKCGtECc)
+- [Christian Entrepreneur? Let AI Do the Busy Work &lpar;No Code Required&rpar;](https://www.youtube.com/watch?v=Bm5EshKHE6w)
+- [How to Make ChatGPT Recommend YOUR Business &lpar;5 Simple Steps&rpar;](https://www.youtube.com/watch?v=jsc6XJAh9lY)
+- [7 AI Tasks That Honor God &lpar;Automate Your Business Today&rpar;](https://www.youtube.com/watch?v=TwZrJm9aRp8)
+- [Stop Reading the Bible Like This &lpar;3 Step Study Method&rpar;](https://www.youtube.com/watch?v=pjsW2KilIVs)
 <!-- YOUTUBE:END -->
 
 ---
