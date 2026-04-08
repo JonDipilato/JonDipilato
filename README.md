@@ -66,6 +66,17 @@ I build AI-native tools and automation systems — from lead generation engines 
 | **Content Lead Engine** | Automated content research and publishing pipeline | Python, Claude AI |
 | **LLM Wiki** | Karpathy-style knowledge base for LLM research | Markdown, Claude AI |
 | **Bible Verse Hunter** | Intelligent scripture discovery and search | TypeScript |
+| **[Email Machine](https://www.dipilatosystems.biz/)** | Fully automated outbound email system — live in production | Node.js, Claude AI |
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JonDipilato&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
 
 ---
 
