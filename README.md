@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Agents Run Your Company Now  &lpar;Paperclip Demo&rpar;](https://www.youtube.com/watch?v=fDW7NIJJXus)
 - [I Replaced My Entire Content Team With AI For $50/Month&lpar;Full System&rpar;](https://www.youtube.com/watch?v=DXE9VSL4lto)
 - [The FREE Bible AI App I Built &lpar;Find ANY Verse Instantly&rpar;](https://www.youtube.com/watch?v=6QaqgiXXqr8)
 - [I Uploaded the ENTIRE Bible to AI and It Found Things I Never Saw](https://www.youtube.com/watch?v=EvCTKCGtECc)
 - [Christian Entrepreneur? Let AI Do the Busy Work &lpar;No Code Required&rpar;](https://www.youtube.com/watch?v=Bm5EshKHE6w)
-- [How to Make ChatGPT Recommend YOUR Business &lpar;5 Simple Steps&rpar;](https://www.youtube.com/watch?v=jsc6XJAh9lY)
 <!-- YOUTUBE:END -->
 
 ---
