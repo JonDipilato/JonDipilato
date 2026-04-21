@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Onlook Changed Frontend Development Forever &lpar;Live React Edits&rpar;](https://www.youtube.com/watch?v=80N9MtMUEDI)
 - [Open Source  Visual Designer Enter SCRAPLING #aitools  #opensourceai](https://www.youtube.com/shorts/OB3opkAc8T8)
 - [AI Agents Run Your Company Now  &lpar;Paperclip Demo&rpar;](https://www.youtube.com/watch?v=fDW7NIJJXus)
 - [I Replaced My Entire Content Team With AI For $50/Month&lpar;Full System&rpar;](https://www.youtube.com/watch?v=DXE9VSL4lto)
 - [The FREE Bible AI App I Built &lpar;Find ANY Verse Instantly&rpar;](https://www.youtube.com/watch?v=6QaqgiXXqr8)
-- [I Uploaded the ENTIRE Bible to AI and It Found Things I Never Saw](https://www.youtube.com/watch?v=EvCTKCGtECc)
 <!-- YOUTUBE:END -->
 
 ---
