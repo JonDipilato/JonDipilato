@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Local Coding Agents Are Not Magic  #aitools](https://www.youtube.com/shorts/iVR-TpLnWhA)
-- [pdfmux: Stop Paying AI for Every PDF Page](https://www.youtube.com/watch?v=V_Dc07qPgNg)
-- [OpenCode + Gemma 4 + Ollama: A Local Coding Agent That Actually Works](https://www.youtube.com/watch?v=FiB9rZ1cIoA)
-- [Onlook Changed Frontend Development Forever &lpar;Live React Edits&rpar;](https://www.youtube.com/watch?v=80N9MtMUEDI)
-- [Open Source  Visual Designer Enter SCRAPLING #aitools  #opensourceai](https://www.youtube.com/shorts/OB3opkAc8T8)
+- [5 AI Apps for Electricians But There&#39;s a Better Way](https://www.youtube.com/watch?v=JIqaCB2tjBQ)
+- [She Missed 15 Calls in One Day… Here’s What It Cost Her](https://www.youtube.com/watch?v=Jcn3E3H9CxM)
+- [Stop working like everyone else. Build this instead. #aitools #shorts](https://www.youtube.com/shorts/9IIXPwEusoQ)
+- [I Built Two AI Brains… Then Let Them Argue](https://www.youtube.com/watch?v=dT9k46yYb6k)
+- [This Shouldn’t Be Possible…](https://www.youtube.com/watch?v=mJiDBGgtCK8)
 <!-- YOUTUBE:END -->
 
 ---
