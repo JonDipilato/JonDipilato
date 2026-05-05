@@ -160,8 +160,8 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Real pdfmux Product Is the Audit Loop](https://www.youtube.com/shorts/0ly0e-XekjA)
 - [Hyperframes vs Remotion: Which Video Framework is Faster?](https://www.youtube.com/watch?v=qo1ojU507Qk)
+- [The Real pdfmux Product Is the Audit Loop](https://www.youtube.com/shorts/0ly0e-XekjA)
 - [I Replaced My Cron Jobs With Claude Routines](https://www.youtube.com/shorts/kV9rKSmdusQ)
 - [I Love Coding Agents, But I Hate the API Meter](https://www.youtube.com/shorts/Kn1HNHNabVI)
 - [Claude Code Routines: Replace Cron Glue With Anthropic-Hosted Workers](https://www.youtube.com/watch?v=WL_dsYmEw3Y)
