@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [If Agents Can Write HTML, Maybe Video Should Be HTML Too](https://www.youtube.com/shorts/_Uecwmw45NQ)
 - [This AI Video Tool Almost Replaced Remotion #aitools #shorts](https://www.youtube.com/shorts/cCIXInUdSw0)
 - [Hyperframes vs Remotion: Which Video Framework is Faster?](https://www.youtube.com/watch?v=qo1ojU507Qk)
 - [The Real pdfmux Product Is the Audit Loop](https://www.youtube.com/shorts/0ly0e-XekjA)
 - [I Replaced My Cron Jobs With Claude Routines](https://www.youtube.com/shorts/kV9rKSmdusQ)
-- [I Love Coding Agents, But I Hate the API Meter](https://www.youtube.com/shorts/Kn1HNHNabVI)
 <!-- YOUTUBE:END -->
 
 ---
