@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop Paying Rent To AI Models #aitools](https://www.youtube.com/shorts/ydR4SV4foT8)
 - [Stop Renting AI Before It Eats Your Profit](https://www.youtube.com/watch?v=4AJ1mEck5Ls)
 - [If Agents Can Write HTML, Maybe Video Should Be HTML Too](https://www.youtube.com/shorts/_Uecwmw45NQ)
 - [This AI Video Tool Almost Replaced Remotion #aitools #shorts](https://www.youtube.com/shorts/cCIXInUdSw0)
 - [Hyperframes vs Remotion: Which Video Framework is Faster?](https://www.youtube.com/watch?v=qo1ojU507Qk)
-- [The Real pdfmux Product Is the Audit Loop](https://www.youtube.com/shorts/0ly0e-XekjA)
 <!-- YOUTUBE:END -->
 
 ---
