@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You&#39;re Paying a Seat Tax to Touch Your Own Code #aitools #shorts](https://www.youtube.com/shorts/dBDHe9Nxl0U)
 - [Zed + Ollama: I Built a Client Tool with Zero Subscription. Here&#39;s How.](https://www.youtube.com/watch?v=_jHzTqbS15s)
 - [Stop Babysitting AI: Multica Turns Agents Into Teammates](https://www.youtube.com/watch?v=Uoq85otEhk8)
 - [Stop Paying Rent To AI Models #aitools](https://www.youtube.com/shorts/ydR4SV4foT8)
 - [Stop Renting AI Before It Eats Your Profit](https://www.youtube.com/watch?v=4AJ1mEck5Ls)
-- [If Agents Can Write HTML, Maybe Video Should Be HTML Too](https://www.youtube.com/shorts/_Uecwmw45NQ)
 <!-- YOUTUBE:END -->
 
 ---
