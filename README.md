@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Switched From Claude Code to Antigravity 2.0 &lpar;Here&#39;s What Happened&rpar;](https://www.youtube.com/watch?v=BFvp-OpHRic)
 - [I Reclaimed 12 + Hours a Week With Claude Code + NotebookLM + Obsidian](https://www.youtube.com/watch?v=vy8R4OP0Kyw)
 - [AI Codes Your Video Now — HyperFrames vs Remotion &lpar;Same Scene, Two Engines&rpar;](https://www.youtube.com/watch?v=XvEtiYhf-B0)
 - [I Stopped Guessing What to Make on YouTube &lpar;My AI Research System&rpar;](https://www.youtube.com/watch?v=VVdfDwvnjqU)
 - [You&#39;re Paying a Seat Tax to Touch Your Own Code #aitools #shorts](https://www.youtube.com/shorts/dBDHe9Nxl0U)
-- [Zed + Ollama: I Built a Client Tool with Zero Subscription. Here&#39;s How.](https://www.youtube.com/watch?v=_jHzTqbS15s)
 <!-- YOUTUBE:END -->
 
 ---
