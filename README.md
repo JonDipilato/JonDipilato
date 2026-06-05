@@ -161,10 +161,10 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 
 <!-- YOUTUBE:START -->
 - [I Found an Open-Source Vapi Alternative for Voice AI Agents](https://www.youtube.com/watch?v=fg5MR_UJMfo)
+- [Everyone tuning their AI coding agent is watching the wrong number. #aitools #aiagents](https://www.youtube.com/shorts/Gi6UlQ2oPZQ)
 - [Build a Private Local Coding Agent on a $250 GPU with Llama cpp and Pi](https://www.youtube.com/watch?v=gUB3emfBVUM)
 - [I Switched From Claude Code to Antigravity 2.0 &lpar;Here&#39;s What Happened&rpar;](https://www.youtube.com/watch?v=BFvp-OpHRic)
 - [I Reclaimed 12 + Hours a Week With Claude Code + NotebookLM + Obsidian](https://www.youtube.com/watch?v=vy8R4OP0Kyw)
-- [AI Codes Your Video Now — HyperFrames vs Remotion &lpar;Same Scene, Two Engines&rpar;](https://www.youtube.com/watch?v=XvEtiYhf-B0)
 <!-- YOUTUBE:END -->
 
 ---
