@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Found an Open-Source Vapi Alternative for Voice AI Agents](https://www.youtube.com/watch?v=fg5MR_UJMfo)
 - [Build a Private Local Coding Agent on a $250 GPU with Llama cpp and Pi](https://www.youtube.com/watch?v=gUB3emfBVUM)
 - [I Switched From Claude Code to Antigravity 2.0 &lpar;Here&#39;s What Happened&rpar;](https://www.youtube.com/watch?v=BFvp-OpHRic)
 - [I Reclaimed 12 + Hours a Week With Claude Code + NotebookLM + Obsidian](https://www.youtube.com/watch?v=vy8R4OP0Kyw)
 - [AI Codes Your Video Now — HyperFrames vs Remotion &lpar;Same Scene, Two Engines&rpar;](https://www.youtube.com/watch?v=XvEtiYhf-B0)
-- [I Stopped Guessing What to Make on YouTube &lpar;My AI Research System&rpar;](https://www.youtube.com/watch?v=VVdfDwvnjqU)
 <!-- YOUTUBE:END -->
 
 ---
