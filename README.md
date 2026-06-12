@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Makes the Wrong Direction Faster... Commit Before You Optimize](https://www.youtube.com/watch?v=hsAD47Dmz2Q)
 - [Ollama Or  LM Studio + Hermes = Private AI Agent](https://www.youtube.com/watch?v=uX8o7XyOIZM)
 - [I Found an Open-Source Vapi Alternative for Voice AI Agents](https://www.youtube.com/watch?v=fg5MR_UJMfo)
 - [Everyone tuning their AI coding agent is watching the wrong number. #aitools #aiagents](https://www.youtube.com/shorts/Gi6UlQ2oPZQ)
-- [Build a Private Local Coding Agent on a $250 GPU with Llama cpp and Pi](https://www.youtube.com/watch?v=gUB3emfBVUM)
-- [I Switched From Claude Code to Antigravity 2.0 &lpar;Here&#39;s What Happened&rpar;](https://www.youtube.com/watch?v=BFvp-OpHRic)
+- [Build a Fast Local Coding Agent on a Budget GPU with Llama.cpp, REAP and Pi](https://www.youtube.com/watch?v=gUB3emfBVUM)
 <!-- YOUTUBE:END -->
 
 ---
