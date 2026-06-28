@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your Missed Calls Are Costing You Jobs &lpar;The 5 Minute Fix&rpar;](https://www.youtube.com/watch?v=xO4CDu1ou-Y)
 - [My Local AI JARVIS and EVE Runs My Whole Morning and it&#39;s FREE](https://www.youtube.com/watch?v=VxAwj_vmXV0)
 - [I Built a Private AI Employee That Knows My Entire Business](https://www.youtube.com/watch?v=2DoHYrrrwbA)
 - [I Built a Local AI Receptionist That Talks Like Me](https://www.youtube.com/watch?v=5hhDl4eOCrM)
 - [The Open-Source JARVIS Nobody Is Talking About &lpar;Fully Private AI Assistant&rpar;](https://www.youtube.com/watch?v=i8a8nVES5Zw)
-- [AI Makes the Wrong Direction Faster... Commit Before You Optimize](https://www.youtube.com/watch?v=hsAD47Dmz2Q)
 <!-- YOUTUBE:END -->
 
 ---
