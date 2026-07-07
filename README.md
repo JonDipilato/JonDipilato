@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I typed sentences. It became a Vox-style animation. #localai #claudecode](https://www.youtube.com/shorts/qee6gOywj_c)
+- [How Many calls came in when you were busy? #aireceptionist #automation #localbusiness](https://www.youtube.com/shorts/8O_j4EHIK2Y)
 - [I Made Vox Style Motion Graphics With Only Claude Code + Codex &lpar;No After Effects&rpar;](https://www.youtube.com/watch?v=o6sFtRM11f0)
 - [I Turned My Wi-Fi OFF and a Free Local AI Still Built an App](https://www.youtube.com/watch?v=gGQCBr12CuM)
 - [My customers will HATE a robot&quot;... here&#39;s what they hate more](https://www.youtube.com/shorts/4v45oCWHDaU)
-- [Your Missed Calls Are Costing You Jobs &lpar;The 5 Minute Fix&rpar;](https://www.youtube.com/watch?v=xO4CDu1ou-Y)
-- [NVIDIA&#39;s 748GB Desktop Makes Local AI INSANELY Great &lpar;Runs 70B, No Cloud&rpar;](https://www.youtube.com/watch?v=CwNsFAYRLCU)
 <!-- YOUTUBE:END -->
 
 ---
