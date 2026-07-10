@@ -160,11 +160,11 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You Don&#39;t Need a $2,000 GPU for Local AI &lpar;Real Tests&rpar;](https://www.youtube.com/watch?v=fUcEdBRyd1w)
 - [&quot;Hey Jarvis, give me my morning brief&quot; &lpar;local AI, $0&rpar; #localai](https://www.youtube.com/shorts/C1UZbEMNQ_k)
 - [I typed sentences. It became a Vox-style animation. #localai #claudecode](https://www.youtube.com/shorts/qee6gOywj_c)
 - [How Many calls came in when you were busy? #aireceptionist #automation #localbusiness](https://www.youtube.com/shorts/8O_j4EHIK2Y)
 - [I Made Vox Style Motion Graphics With Only Claude Code + Codex &lpar;No After Effects&rpar;](https://www.youtube.com/watch?v=o6sFtRM11f0)
-- [I Turned My Wi-Fi OFF and a Free Local AI Still Built an App](https://www.youtube.com/watch?v=gGQCBr12CuM)
 <!-- YOUTUBE:END -->
 
 ---
