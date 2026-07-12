@@ -14,7 +14,7 @@
 
 I build AI-native systems that eliminate manual work — AI agents, local AI, voice assistants, browser automation, content pipelines, and full-stack SaaS. Everything ships. Everything runs. No prototypes, no mock demos.
 
-- Building [**Atlas**](https://github.com/JonDipilato/Auto-Atlas) — your AI chief of staff: local full-duplex voice (Whisper + Ollama + Kokoro), real tools, $0/month — [watch it run](https://www.youtube.com/shorts/C1UZbEMNQ_k)
+- Building [**Atlas**](https://github.com/Auto-Atlas) — your AI chief of staff: local full-duplex voice (Whisper + Ollama + Kokoro), real tools, $0/month — [watch it run](https://www.youtube.com/shorts/C1UZbEMNQ_k)
 - Building [**BookingBot**](https://github.com/JonDipilato/bookingbot-saas) — AI-powered SaaS booking automation
 - Teaching local AI on [**NoCode Abode**](https://www.youtube.com/@NoCodeAbode) — running frontier-class AI on your own GPU
 - Daily drivers: Claude Code, Codex, Ollama, llama.cpp, MCP servers, ElevenLabs, ComfyUI
@@ -78,8 +78,8 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <a href="https://github.com/JonDipilato/ai_news_automator">
   <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
-<a href="https://github.com/JonDipilato/Auto-Atlas">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=Auto-Atlas&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
+<a href="https://github.com/Auto-Atlas/Auto-Atlas">
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=Auto-Atlas&repo=Auto-Atlas&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 
 <br /><br />
@@ -165,15 +165,32 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 ---
 
-## Latest YouTube Videos
+## Recent Activity
 
-<!-- YOUTUBE:START -->
-- [You Don&#39;t Need a $2,000 GPU for Local AI &lpar;Real Tests&rpar;](https://www.youtube.com/watch?v=fUcEdBRyd1w)
-- [&quot;Hey Jarvis, give me my morning brief&quot; &lpar;local AI, $0&rpar; #localai](https://www.youtube.com/shorts/C1UZbEMNQ_k)
-- [I typed sentences. It became a Vox-style animation. #localai #claudecode](https://www.youtube.com/shorts/qee6gOywj_c)
-- [How Many calls came in when you were busy? #aireceptionist #automation #localbusiness](https://www.youtube.com/shorts/8O_j4EHIK2Y)
-- [I Made Vox Style Motion Graphics With Only Claude Code + Codex &lpar;No After Effects&rpar;](https://www.youtube.com/watch?v=o6sFtRM11f0)
-<!-- YOUTUBE:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## Latest on YouTube
+
+**[NoCode Abode](https://www.youtube.com/@NoCodeAbode)** — local AI on your own GPU
+
+<div align="center">
+
+<!-- BEGIN YT-NOCODEABODE -->
+<!-- END YT-NOCODEABODE -->
+
+</div>
+
+**[Jon DiPilato](https://www.youtube.com/@JonDiPilato)** — AI automation for local business
+
+<div align="center">
+
+<!-- BEGIN YT-JONDIPILATO -->
+<!-- END YT-JONDIPILATO -->
+
+</div>
 
 ---
 

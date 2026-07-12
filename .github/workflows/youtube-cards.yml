@@ -1,0 +1,39 @@
+name: YouTube Thumbnail Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: NoCode Abode cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC6yHRqsyOWrpfvgMn_sYOkg
+          comment_tag_name: YT-NOCODEABODE
+          max_videos: 3
+          card_width: 260
+          background_color: "#070B14"
+          title_color: "#CBD7E6"
+          stats_color: "#8593A6"
+          commit_message: "readme: update NoCode Abode video cards"
+
+      - name: Jon DiPilato channel cards
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCvJozojsjgkE5QITLfvaY1g
+          comment_tag_name: YT-JONDIPILATO
+          max_videos: 3
+          card_width: 260
+          background_color: "#070B14"
+          title_color: "#CBD7E6"
+          stats_color: "#8593A6"
+          commit_message: "readme: update Jon DiPilato video cards"
