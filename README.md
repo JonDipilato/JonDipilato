@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0E1726,100:16223A&height=200&section=header&text=Jon%20Dipilato&fontSize=60&fontColor=CBD7E6&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Builder%20%7C%20Systems%20Architect%20%7C%20Founder&descAlignY=55&descSize=18&descColor=2C8DFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:0e1726,100:16223a&height=200&section=header&text=Jon%20Dipilato&fontSize=60&fontColor=2c8dff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Builder%20%7C%20Systems%20Architect%20%7C%20Founder&descAlignY=55&descSize=18&descColor=8593a6" />
 
 <img src="./logo.png" width="190" alt="DiPilato Automations — chrome D, brass gears, electric blue" />
 
@@ -190,6 +190,6 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 [![YouTube](https://img.shields.io/badge/@JonDiPilato-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JonDiPilato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jondipilato/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16223A,50:0E1726,100:070B14&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16223a,50:0e1726,100:070b14&height=100&section=footer" />
 
 </div>
