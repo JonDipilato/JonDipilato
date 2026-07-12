@@ -163,7 +163,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonDipilato&theme=github-compact&bg_color=070B14&color=8593A6&line=2C8DFF&point=CBD7E6&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonDipilato&bg_color=070B14&color=8593A6&line=2C8DFF&point=CBD7E6&area_color=2C8DFF&area=true&hide_border=true" />
 
 </div>
 
