@@ -4,7 +4,7 @@
 
 <img src="./logo.png" width="140" alt="Dipilato Automations" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+AI+systems+that+replace+manual+work;Agents+%E2%80%A2+Voice+AI+%E2%80%A2+Browser+automation+%E2%80%A2+SaaS;If+a+human+does+it+twice%2C+I+automate+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+AI+systems+that+replace+manual+work;AI+agents+%E2%80%A2+Local+AI+%E2%80%A2+Voice+%E2%80%A2+Browser+automation;If+a+human+does+it+twice%2C+I+automate+it)](https://git.io/typing-svg)
 
 <br />
 
@@ -16,12 +16,13 @@
 
 ## About
 
-I build AI-native systems that eliminate manual work — lead engines, voice agents, browser automation, content pipelines, and full-stack SaaS. Everything ships. Everything runs. No prototypes, no mock demos.
+I build AI-native systems that eliminate manual work — AI agents, local AI, voice assistants, browser automation, content pipelines, and full-stack SaaS. Everything ships. Everything runs. No prototypes, no mock demos.
 
-- Building [**DipilatoLeads**](https://github.com/JonDipilato/investor-finder) — AI-powered B2B lead discovery and outreach
-- Building [**AI Video Pipeline**](https://github.com/JonDipilato/ai_news_automator) — Automated YouTube content generation
+- Building [**Auto-Atlas**](https://github.com/JonDipilato/Auto-Atlas) — Atlas, an AI chief of staff
+- Building [**Jarvis**](https://www.youtube.com/shorts/C1UZbEMNQ_k) — local full-duplex voice assistant: Whisper + Ollama + Kokoro, real tools, $0/month
 - Building [**BookingBot**](https://github.com/JonDipilato/bookingbot-saas) — AI-powered SaaS booking automation
-- Shipping with: Claude, ElevenLabs, ComfyUI, Skyvern, and the full agentic stack
+- Teaching local AI on [**NoCode Abode**](https://www.youtube.com/@NoCodeAbode) — running frontier-class AI on your own GPU
+- Daily drivers: Claude Code, Codex, Ollama, llama.cpp, MCP servers, ElevenLabs, ComfyUI
 
 ---
 
@@ -37,25 +38,37 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)
-
-**Agentic Platforms**
+**AI Coding Agents**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+**Local AI**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-1a1a2e?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Kokoro TTS](https://img.shields.io/badge/Kokoro%20TTS-1a1a2e?style=for-the-badge&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white)
+
+**Voice & Automation**
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 ![Skyvern](https://img.shields.io/badge/Skyvern-1a1a2e?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logoColor=white)
 
 **Infrastructure & Tools**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -70,8 +83,8 @@ I build AI-native systems that eliminate manual work — lead engines, voice age
 <a href="https://github.com/JonDipilato/ai_news_automator">
   <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
-<a href="https://github.com/JonDipilato/SaaS-Boilerplate">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=SaaS-Boilerplate&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+<a href="https://github.com/JonDipilato/Auto-Atlas">
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=Auto-Atlas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
 </a>
 
 <br /><br />
