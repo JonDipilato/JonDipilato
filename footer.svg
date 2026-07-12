@@ -1,0 +1,22 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DiPilato Automations footer band">
+  <defs>
+    <linearGradient id="inkf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0E1726"/>
+    </linearGradient>
+    <linearGradient id="voltline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2C8DFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2C8DFF"/>
+      <stop offset="1" stop-color="#2C8DFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridf" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22304A" stroke-opacity="0.45" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="url(#inkf)"/>
+  <rect width="1200" height="90" fill="url(#gridf)"/>
+  <rect x="300" y="0" width="600" height="2" fill="url(#voltline)"/>
+  <text x="600" y="54" text-anchor="middle" fill="#8593A6"
+        font-family="'IBM Plex Mono','Consolas','Courier New',monospace"
+        font-size="13" letter-spacing="5">DIPILATO AUTOMATIONS · WORCESTER COUNTY, MA</text>
+</svg>
