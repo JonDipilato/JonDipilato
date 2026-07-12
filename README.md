@@ -4,10 +4,6 @@
 
 <img src="./logo.png" width="190" alt="DiPilato Automations — chrome D, brass gears, electric blue" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3000&pause=1000&color=2C8DFF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+AI+systems+that+replace+manual+work;AI+agents+%E2%80%A2+Local+AI+%E2%80%A2+Voice+%E2%80%A2+Browser+automation;If+a+human+does+it+twice%2C+I+automate+it)](https://git.io/typing-svg)
-
-<br />
-
 <img src="https://komarev.com/ghpvc/?username=JonDipilato&color=2c8dff&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
