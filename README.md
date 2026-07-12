@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jon%20Dipilato&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Builder%20%7C%20Systems%20Architect%20%7C%20Founder&descAlignY=55&descSize=18&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0E1726,100:16223A&height=200&section=header&text=Jon%20Dipilato&fontSize=60&fontColor=CBD7E6&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Builder%20%7C%20Systems%20Architect%20%7C%20Founder&descAlignY=55&descSize=18&descColor=2C8DFF" />
 
-<img src="./logo.png" width="140" alt="Dipilato Automations" />
+<img src="./logo.png" width="190" alt="DiPilato Automations — chrome D, brass gears, electric blue" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+AI+systems+that+replace+manual+work;AI+agents+%E2%80%A2+Local+AI+%E2%80%A2+Voice+%E2%80%A2+Browser+automation;If+a+human+does+it+twice%2C+I+automate+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3000&pause=1000&color=2C8DFF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+AI+systems+that+replace+manual+work;AI+agents+%E2%80%A2+Local+AI+%E2%80%A2+Voice+%E2%80%A2+Browser+automation;If+a+human+does+it+twice%2C+I+automate+it)](https://git.io/typing-svg)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=JonDipilato&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JonDipilato&color=2c8dff&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -18,8 +18,7 @@
 
 I build AI-native systems that eliminate manual work — AI agents, local AI, voice assistants, browser automation, content pipelines, and full-stack SaaS. Everything ships. Everything runs. No prototypes, no mock demos.
 
-- Building [**Auto-Atlas**](https://github.com/JonDipilato/Auto-Atlas) — Atlas, an AI chief of staff
-- Building [**Jarvis**](https://www.youtube.com/shorts/C1UZbEMNQ_k) — local full-duplex voice assistant: Whisper + Ollama + Kokoro, real tools, $0/month
+- Building [**Atlas**](https://github.com/JonDipilato/Auto-Atlas) — your AI chief of staff: local full-duplex voice (Whisper + Ollama + Kokoro), real tools, $0/month — [watch it run](https://www.youtube.com/shorts/C1UZbEMNQ_k)
 - Building [**BookingBot**](https://github.com/JonDipilato/bookingbot-saas) — AI-powered SaaS booking automation
 - Teaching local AI on [**NoCode Abode**](https://www.youtube.com/@NoCodeAbode) — running frontier-class AI on your own GPU
 - Daily drivers: Claude Code, Codex, Ollama, llama.cpp, MCP servers, ElevenLabs, ComfyUI
@@ -81,28 +80,28 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <a href="https://github.com/JonDipilato/ai_news_automator">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=ai_news_automator&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/Auto-Atlas">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=Auto-Atlas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=Auto-Atlas&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/JonDipilato/bible-applied">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bible-applied&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bible-applied&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/bookingbot-saas">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bookingbot-saas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=bookingbot-saas&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/JonDipilato/automated-videos">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=automated-videos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=automated-videos&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 <a href="https://github.com/JonDipilato/investor-finder">
-  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=investor-finder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&v=3" />
+  <img align="center" src="https://github-readme-stats-gray-seven-69.vercel.app/api/pin/?username=JonDipilato&repo=investor-finder&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&v=3" />
 </a>
 
 </div>
@@ -147,14 +146,14 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api?username=JonDipilato&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api/top-langs/?username=JonDipilato&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api?username=JonDipilato&show_icons=true&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api/top-langs/?username=JonDipilato&layout=compact&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&text_color=CBD7E6&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonDipilato&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonDipilato&hide_border=true&background=070B14&stroke=22304A&ring=2C8DFF&fire=E6B23E&currStreakNum=CBD7E6&currStreakLabel=2C8DFF&sideNums=CBD7E6&sideLabels=8593A6&dates=8593A6" />
 
 </div>
 
@@ -164,7 +163,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonDipilato&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JonDipilato&theme=github-compact&bg_color=070B14&color=8593A6&line=2C8DFF&point=CBD7E6&area=true&hide_border=true" />
 
 </div>
 
@@ -186,11 +185,11 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 > *"If a human does it twice, I automate it."*
 
-[![Website](https://img.shields.io/badge/dipilatoautomations.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://dipilatoautomations.com)
+[![Website](https://img.shields.io/badge/dipilatoautomations.com-070B14?style=for-the-badge&logo=googlechrome&logoColor=2C8DFF)](https://dipilatoautomations.com)
 [![YouTube](https://img.shields.io/badge/NoCode%20Abode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoCodeAbode)
 [![YouTube](https://img.shields.io/badge/@JonDiPilato-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JonDiPilato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jondipilato/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16223A,50:0E1726,100:070B14&height=100&section=footer" />
 
 </div>
