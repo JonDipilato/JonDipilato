@@ -142,8 +142,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api?username=JonDipilato&show_icons=true&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&icon_color=E6B23E&text_color=CBD7E6&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats-gray-seven-69.vercel.app/api/top-langs/?username=JonDipilato&layout=compact&theme=github_dark&hide_border=true&bg_color=070B14&title_color=2C8DFF&text_color=CBD7E6&langs_count=8" />
+<img src="https://raw.githubusercontent.com/JonDipilato/JonDipilato/output/github-metrics.svg" alt="Detailed GitHub metrics: repositories, languages, habits, isometric contribution calendar" />
 
 </div>
 
