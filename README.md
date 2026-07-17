@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![Run a 744B AI With NO GPU.... The SSD Trick (GLM 5.2)](https://ytcards.demolab.com/?id=GNS36ZDm2MQ&title=Run+a+744B+AI+With+NO+GPU....+The+SSD+Trick+%28GLM+5.2%29&lang=en&timestamp=1784249588&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Run a 744B AI With NO GPU.... The SSD Trick (GLM 5.2)")](https://www.youtube.com/watch?v=GNS36ZDm2MQ)
 [![ChatGPT vs Claude vs FREE Local AI Same Prompt, 3 Games](https://ytcards.demolab.com/?id=Ob9OMe8iMDc&title=ChatGPT+vs+Claude+vs+FREE+Local+AI+Same+Prompt%2C+3+Games&lang=en&timestamp=1784037786&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "ChatGPT vs Claude vs FREE Local AI Same Prompt, 3 Games")](https://www.youtube.com/watch?v=Ob9OMe8iMDc)
 [![You Don't Need a $2,000 GPU for Local AI (Real Tests)](https://ytcards.demolab.com/?id=fUcEdBRyd1w&title=You+Don%27t+Need+a+%242%2C000+GPU+for+Local+AI+%28Real+Tests%29&lang=en&timestamp=1783692546&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "You Don't Need a $2,000 GPU for Local AI (Real Tests)")](https://www.youtube.com/watch?v=fUcEdBRyd1w)
-[!["Hey Jarvis, give me my morning brief" (local AI, $0) #localai](https://ytcards.demolab.com/?id=C1UZbEMNQ_k&title=%22Hey+Jarvis%2C+give+me+my+morning+brief%22+%28local+AI%2C+%240%29+%23localai&lang=en&timestamp=1783519409&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "\"Hey Jarvis, give me my morning brief\" (local AI, $0) #localai")](https://www.youtube.com/shorts/C1UZbEMNQ_k)
 <!-- END YT-NOCODEABODE -->
 
 </div>
