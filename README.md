@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![Clone Your Voice In 4 Steps (Free, Local, No Cloud)](https://ytcards.demolab.com/?id=Qr57EsV62Xo&title=Clone+Your+Voice+In+4+Steps+%28Free%2C+Local%2C+No+Cloud%29&lang=en&timestamp=1784895535&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Clone Your Voice In 4 Steps (Free, Local, No Cloud)")](https://www.youtube.com/watch?v=Qr57EsV62Xo)
 [![I Let an AI Trade for 24 Hours.. It Made How Much??](https://ytcards.demolab.com/?id=n9qoE19SDso&title=I+Let+an+AI+Trade+for+24+Hours..+It+Made+How+Much%3F%3F&lang=en&timestamp=1784645776&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Let an AI Trade for 24 Hours.. It Made How Much??")](https://www.youtube.com/watch?v=n9qoE19SDso)
 [![Run a 744B AI With NO GPU.... The SSD Trick (GLM 5.2)](https://ytcards.demolab.com/?id=GNS36ZDm2MQ&title=Run+a+744B+AI+With+NO+GPU....+The+SSD+Trick+%28GLM+5.2%29&lang=en&timestamp=1784297346&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Run a 744B AI With NO GPU.... The SSD Trick (GLM 5.2)")](https://www.youtube.com/watch?v=GNS36ZDm2MQ)
-[![ChatGPT vs Claude vs FREE Local AI Same Prompt, 3 Games](https://ytcards.demolab.com/?id=Ob9OMe8iMDc&title=ChatGPT+vs+Claude+vs+FREE+Local+AI+Same+Prompt%2C+3+Games&lang=en&timestamp=1784037786&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "ChatGPT vs Claude vs FREE Local AI Same Prompt, 3 Games")](https://www.youtube.com/watch?v=Ob9OMe8iMDc)
 <!-- END YT-NOCODEABODE -->
 
 </div>
