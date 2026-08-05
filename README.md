@@ -185,9 +185,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
-[![I Let Alibaba's AI Grade My Claude Code Setup](https://ytcards.demolab.com/?id=1ZAhEBeIOTs&title=I+Let+Alibaba%27s+AI+Grade+My+Claude+Code+Setup&lang=en&timestamp=1785852906&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Let Alibaba's AI Grade My Claude Code Setup")](https://www.youtube.com/watch?v=1ZAhEBeIOTs)
-[![I Made Claude Code Test Every Free Alternative... (Until One Broke)](https://ytcards.demolab.com/?id=V3DEH0XTQPI&title=I+Made+Claude+Code+Test+Every+Free+Alternative...+%28Until+One+Broke%29&lang=en&timestamp=1785506585&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Made Claude Code Test Every Free Alternative... (Until One Broke)")](https://www.youtube.com/watch?v=V3DEH0XTQPI)
-[![What Local AI Actually Costs vs ChatGPT+ Claude (Real Math)](https://ytcards.demolab.com/?id=SlpYMGYPW4Y&title=What+Local+AI+Actually+Costs+vs+ChatGPT%2B+Claude+%28Real+Math%29&lang=en&timestamp=1785247266&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "What Local AI Actually Costs vs ChatGPT+ Claude (Real Math)")](https://www.youtube.com/watch?v=SlpYMGYPW4Y)
+
 <!-- END YT-NOCODEABODE -->
 
 </div>
