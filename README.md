@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![What a $50,000 Local AI Computer Actually Buys](https://ytcards.demolab.com/?id=nWqQcL7Rcbg&title=What+a+%2450%2C000+Local+AI+Computer+Actually+Buys&lang=en&timestamp=1786640578&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "What a $50,000 Local AI Computer Actually Buys")](https://www.youtube.com/watch?v=nWqQcL7Rcbg)
 [![Im Not Paying 4381 for an RTX 5090 Heres What I Want First](https://ytcards.demolab.com/?id=c8A-aqtGwKk&title=Im+Not+Paying+4381+for+an+RTX+5090+Heres+What+I+Want+First&lang=en&timestamp=1786457706&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Im Not Paying 4381 for an RTX 5090 Heres What I Want First")](https://www.youtube.com/watch?v=c8A-aqtGwKk)
 [![Prompt Engineering Is Dead  Here's What Replaced It](https://ytcards.demolab.com/?id=ouzLucVPRHY&title=Prompt+Engineering+Is+Dead++Here%27s+What+Replaced+It&lang=en&timestamp=1786112105&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Prompt Engineering Is Dead  Here's What Replaced It")](https://www.youtube.com/watch?v=ouzLucVPRHY)
-[![I Let Alibaba's AI Grade My Claude Code Setup](https://ytcards.demolab.com/?id=1ZAhEBeIOTs&title=I+Let+Alibaba%27s+AI+Grade+My+Claude+Code+Setup&lang=en&timestamp=1785852906&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Let Alibaba's AI Grade My Claude Code Setup")](https://www.youtube.com/watch?v=1ZAhEBeIOTs)
 <!-- END YT-NOCODEABODE -->
 
 </div>
