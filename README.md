@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![Qwen 3.8 27B ... Is the 9GB File Actually Dumber???](https://ytcards.demolab.com/?id=JPFERqQbtLU&title=Qwen+3.8+27B+...+Is+the+9GB+File+Actually+Dumber%3F%3F%3F&lang=en&timestamp=1787853054&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen 3.8 27B ... Is the 9GB File Actually Dumber???")](https://www.youtube.com/watch?v=JPFERqQbtLU)
 [![Qwen 3 8 27B on a 12GB GPU.. (Does It Actually Fit?)](https://ytcards.demolab.com/?id=gE8OjlX5Zys&title=Qwen+3+8+27B+on+a+12GB+GPU..+%28Does+It+Actually+Fit%3F%29&lang=en&timestamp=1787235306&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen 3 8 27B on a 12GB GPU.. (Does It Actually Fit?)")](https://www.youtube.com/watch?v=gE8OjlX5Zys)
 [![I Turned Proverbs Into an AI Business Advisor (It Called Me Out)](https://ytcards.demolab.com/?id=1Jp2a3mAoBM&title=I+Turned+Proverbs+Into+an+AI+Business+Advisor+%28It+Called+Me+Out%29&lang=en&timestamp=1787061666&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Turned Proverbs Into an AI Business Advisor (It Called Me Out)")](https://www.youtube.com/watch?v=1Jp2a3mAoBM)
-[![What a $50,000 Local AI Computer Actually Buys](https://ytcards.demolab.com/?id=nWqQcL7Rcbg&title=What+a+%2450%2C000+Local+AI+Computer+Actually+Buys&lang=en&timestamp=1786716906&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "What a $50,000 Local AI Computer Actually Buys")](https://www.youtube.com/watch?v=nWqQcL7Rcbg)
 <!-- END YT-NOCODEABODE -->
 
 </div>
