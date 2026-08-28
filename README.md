@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![Review From Owner Jeremy](https://ytcards.demolab.com/?id=cZShvfc9fcw&title=Review+From+Owner+Jeremy&lang=en&timestamp=1787854531&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Review From Owner Jeremy")](https://www.youtube.com/watch?v=cZShvfc9fcw)
 [![Boring But Effective Ai Receptionist #aireceptionist #automation](https://ytcards.demolab.com/?id=WEDpCwB6vmA&title=Boring+But+Effective+Ai+Receptionist+%23aireceptionist+%23automation&lang=en&timestamp=1785457909&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Boring But Effective Ai Receptionist #aireceptionist #automation")](https://www.youtube.com/shorts/WEDpCwB6vmA)
 [![How Many calls came in when you were busy? #aireceptionist #automation #localbusiness](https://ytcards.demolab.com/?id=8O_j4EHIK2Y&title=How+Many+calls+came+in+when+you+were+busy%3F+%23aireceptionist+%23automation+%23localbusiness&lang=en&timestamp=1783436436&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "How Many calls came in when you were busy? #aireceptionist #automation #localbusiness")](https://www.youtube.com/shorts/8O_j4EHIK2Y)
-[![My customers will HATE a robot"... here's what they hate more](https://ytcards.demolab.com/?id=4v45oCWHDaU&title=My+customers+will+HATE+a+robot%22...+here%27s+what+they+hate+more&lang=en&timestamp=1783084399&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "My customers will HATE a robot\"... here's what they hate more")](https://www.youtube.com/shorts/4v45oCWHDaU)
 <!-- END YT-JONDIPILATO -->
 
 </div>
