@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![The Simple Field Service Software Most Businesses Actually Need](https://ytcards.demolab.com/?id=xmkPNMqY6qw&title=The+Simple+Field+Service+Software+Most+Businesses+Actually+Need&lang=en&timestamp=1788912761&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The Simple Field Service Software Most Businesses Actually Need")](https://www.youtube.com/watch?v=xmkPNMqY6qw)
 [![pastor tim testimonial](https://ytcards.demolab.com/?id=E2rSCvZMv84&title=pastor+tim+testimonial&lang=en&timestamp=1788524797&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "pastor tim testimonial")](https://www.youtube.com/watch?v=E2rSCvZMv84)
 [![Review From Owner Jeremy](https://ytcards.demolab.com/?id=cZShvfc9fcw&title=Review+From+Owner+Jeremy&lang=en&timestamp=1787854531&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Review From Owner Jeremy")](https://www.youtube.com/watch?v=cZShvfc9fcw)
-[![Boring But Effective Ai Receptionist #aireceptionist #automation](https://ytcards.demolab.com/?id=WEDpCwB6vmA&title=Boring+But+Effective+Ai+Receptionist+%23aireceptionist+%23automation&lang=en&timestamp=1785457909&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Boring But Effective Ai Receptionist #aireceptionist #automation")](https://www.youtube.com/shorts/WEDpCwB6vmA)
 <!-- END YT-JONDIPILATO -->
 
 </div>
