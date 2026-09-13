@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![My Client Fired His AI Receptionist Voice 3 Times #shorts](https://ytcards.demolab.com/?id=AGmPstFqzWc&title=My+Client+Fired+His+AI+Receptionist+Voice+3+Times+%23shorts&lang=en&timestamp=1789254238&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "My Client Fired His AI Receptionist Voice 3 Times #shorts")](https://www.youtube.com/shorts/AGmPstFqzWc)
 [![Your Marketing Company Might Own Your Website](https://ytcards.demolab.com/?id=IuXSUHIyYJo&title=Your+Marketing+Company+Might+Own+Your+Website&lang=en&timestamp=1789164376&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Your Marketing Company Might Own Your Website")](https://www.youtube.com/watch?v=IuXSUHIyYJo)
 [![MA Small Business Grant: Up To $15K for AI Training #shorts](https://ytcards.demolab.com/?id=8eKkJhVq_bg&title=MA+Small+Business+Grant%3A+Up+To+%2415K+for+AI+Training+%23shorts&lang=en&timestamp=1789157068&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "MA Small Business Grant: Up To $15K for AI Training #shorts")](https://www.youtube.com/shorts/8eKkJhVq_bg)
-[![Talk Your Notes In, AI Writes the Contractor Estimate #shorts](https://ytcards.demolab.com/?id=BgRJ0IHd5y8&title=Talk+Your+Notes+In%2C+AI+Writes+the+Contractor+Estimate+%23shorts&lang=en&timestamp=1789081537&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Talk Your Notes In, AI Writes the Contractor Estimate #shorts")](https://www.youtube.com/shorts/BgRJ0IHd5y8)
 <!-- END YT-JONDIPILATO -->
 
 </div>
