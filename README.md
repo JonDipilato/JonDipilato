@@ -185,9 +185,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
-[![Qwen's 2 7x Faster Upgrade   I Got 1 .4x (on 12GB)](https://ytcards.demolab.com/?id=GPDWXqktWRs&title=Qwen%27s+2+7x+Faster+Upgrade+++I+Got+1+.4x+%28on+12GB%29&lang=en&timestamp=1789135386&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen's 2 7x Faster Upgrade   I Got 1 .4x (on 12GB)")](https://www.youtube.com/watch?v=GPDWXqktWRs)
-[![I Gave DeepSeek Harness a 12GB GPU and (a Real Job)](https://ytcards.demolab.com/?id=6XQ6wctbiYI&title=I+Gave+DeepSeek+Harness+a+12GB+GPU+and+%28a+Real+Job%29&lang=en&timestamp=1788530705&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Gave DeepSeek Harness a 12GB GPU and (a Real Job)")](https://www.youtube.com/watch?v=6XQ6wctbiYI)
-[![The Best Free AI Model Just Dropped ... I  (You Can't Run It)](https://ytcards.demolab.com/?id=AEj6Vsd_rkY&title=The+Best+Free+AI+Model+Just+Dropped+...+I++%28You+Can%27t+Run+It%29&lang=en&timestamp=1788271311&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The Best Free AI Model Just Dropped ... I  (You Can't Run It)")](https://www.youtube.com/watch?v=AEj6Vsd_rkY)
+
 <!-- END YT-NOCODEABODE -->
 
 </div>
