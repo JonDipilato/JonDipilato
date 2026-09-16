@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![Best Field Service Software 2026 (I pulled the prices)](https://ytcards.demolab.com/?id=pfRJeeM0TGU&title=Best+Field+Service+Software+2026+%28I+pulled+the+prices%29&lang=en&timestamp=1789524642&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Best Field Service Software 2026 (I pulled the prices)")](https://www.youtube.com/watch?v=pfRJeeM0TGU)
 [![The AI Receptionist Test I Run Before Any Customer Calls #shorts](https://ytcards.demolab.com/?id=hgkUayh9Qy8&title=The+AI+Receptionist+Test+I+Run+Before+Any+Customer+Calls+%23shorts&lang=en&timestamp=1789423326&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The AI Receptionist Test I Run Before Any Customer Calls #shorts")](https://www.youtube.com/shorts/hgkUayh9Qy8)
 [![One AI Agent, No More Typing Customer Info 3 Times #shorts](https://ytcards.demolab.com/?id=6uh1gGuFEEo&title=One+AI+Agent%2C+No+More+Typing+Customer+Info+3+Times+%23shorts&lang=en&timestamp=1789340546&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "One AI Agent, No More Typing Customer Info 3 Times #shorts")](https://www.youtube.com/shorts/6uh1gGuFEEo)
-[![My Client Fired His AI Receptionist Voice 3 Times #shorts](https://ytcards.demolab.com/?id=AGmPstFqzWc&title=My+Client+Fired+His+AI+Receptionist+Voice+3+Times+%23shorts&lang=en&timestamp=1789254238&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "My Client Fired His AI Receptionist Voice 3 Times #shorts")](https://www.youtube.com/shorts/AGmPstFqzWc)
 <!-- END YT-JONDIPILATO -->
 
 </div>
