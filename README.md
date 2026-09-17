@@ -185,9 +185,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
-[![I Used Qwen 3. 8 27B as My Main AI on (a 12GB GPU)](https://ytcards.demolab.com/?id=Ne7qtj2BbVA&title=I+Used+Qwen+3.+8+27B+as+My+Main+AI+on+%28a+12GB+GPU%29&lang=en&timestamp=1789479951&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Used Qwen 3. 8 27B as My Main AI on (a 12GB GPU)")](https://www.youtube.com/watch?v=Ne7qtj2BbVA)
-[![Qwen's 2 7x Faster Upgrade   I Got 1 .4x (on 12GB)](https://ytcards.demolab.com/?id=GPDWXqktWRs&title=Qwen%27s+2+7x+Faster+Upgrade+++I+Got+1+.4x+%28on+12GB%29&lang=en&timestamp=1789135386&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen's 2 7x Faster Upgrade   I Got 1 .4x (on 12GB)")](https://www.youtube.com/watch?v=GPDWXqktWRs)
-[![I Gave DeepSeek Harness a 12GB GPU and (a Real Job)](https://ytcards.demolab.com/?id=6XQ6wctbiYI&title=I+Gave+DeepSeek+Harness+a+12GB+GPU+and+%28a+Real+Job%29&lang=en&timestamp=1788530705&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Gave DeepSeek Harness a 12GB GPU and (a Real Job)")](https://www.youtube.com/watch?v=6XQ6wctbiYI)
+
 <!-- END YT-NOCODEABODE -->
 
 </div>
