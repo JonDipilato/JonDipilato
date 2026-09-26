@@ -185,9 +185,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
-[![I Checked My Local AI for Hackers...  The Problem Was Me....](https://ytcards.demolab.com/?id=HXvaFf2TNiY&title=I+Checked+My+Local+AI+for+Hackers...++The+Problem+Was+Me....&lang=en&timestamp=1790341620&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Checked My Local AI for Hackers...  The Problem Was Me....")](https://www.youtube.com/watch?v=HXvaFf2TNiY)
-[![Free 32GB GPU Server vs My 12GB PC (I Tested Both)](https://ytcards.demolab.com/?id=47JNmdYOi5w&title=Free+32GB+GPU+Server+vs+My+12GB+PC+%28I+Tested+Both%29&lang=en&timestamp=1789736109&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Free 32GB GPU Server vs My 12GB PC (I Tested Both)")](https://www.youtube.com/watch?v=47JNmdYOi5w)
-[![I Used Qwen 3. 8 27B as My Main AI on (a 12GB GPU)](https://ytcards.demolab.com/?id=Ne7qtj2BbVA&title=I+Used+Qwen+3.+8+27B+as+My+Main+AI+on+%28a+12GB+GPU%29&lang=en&timestamp=1789479951&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Used Qwen 3. 8 27B as My Main AI on (a 12GB GPU)")](https://www.youtube.com/watch?v=Ne7qtj2BbVA)
+
 <!-- END YT-NOCODEABODE -->
 
 </div>
