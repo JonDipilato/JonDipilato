@@ -185,9 +185,7 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
-[![Can a 12GB GPU + 32GB RAM Replace Your Claude Code Plan](https://ytcards.demolab.com/?id=N-xzyRzjYRA&title=Can+a+12GB+GPU+%2B+32GB+RAM+Replace+Your+Claude+Code+Plan&lang=en&timestamp=1791290615&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Can a 12GB GPU + 32GB RAM Replace Your Claude Code Plan")](https://www.youtube.com/watch?v=N-xzyRzjYRA)
-[![How Good Is Strata's Qwen Coder on 32GB RAM? (The Brutally Honest Test)](https://ytcards.demolab.com/?id=xze2CeR2Zu0&title=How+Good+Is+Strata%27s+Qwen+Coder+on+32GB+RAM%3F+%28The+Brutally+Honest+Test%29&lang=en&timestamp=1790948826&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "How Good Is Strata's Qwen Coder on 32GB RAM? (The Brutally Honest Test)")](https://www.youtube.com/watch?v=xze2CeR2Zu0)
-[![Free Qwen 27B on a 12GB GPU vs Opus 5 5 Same 6 Jobs,,](https://ytcards.demolab.com/?id=IQVmWhZR-Sk&title=Free+Qwen+27B+on+a+12GB+GPU+vs+Opus+5+5+Same+6+Jobs%2C%2C&lang=en&timestamp=1790702684&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Free Qwen 27B on a 12GB GPU vs Opus 5 5 Same 6 Jobs,,")](https://www.youtube.com/watch?v=IQVmWhZR-Sk)
+
 <!-- END YT-NOCODEABODE -->
 
 </div>
