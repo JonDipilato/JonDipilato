@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![32GB RAM vs 64GB.. Can Strata's Qwen Coder Keep Up?! #localllm #localai](https://ytcards.demolab.com/?id=9CeThn-sHmE&title=32GB+RAM+vs+64GB..+Can+Strata%27s+Qwen+Coder+Keep+Up%3F%21+%23localllm+%23localai&lang=en&timestamp=1791638139&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "32GB RAM vs 64GB.. Can Strata's Qwen Coder Keep Up?! #localllm #localai")](https://www.youtube.com/shorts/9CeThn-sHmE)
 [![Qwen 3.8 27B vs Flash-Next on a 12GB GPU + 32GB RAM (Same 6 Jobs)](https://ytcards.demolab.com/?id=YMZ8vKNqi9c&title=Qwen+3.8+27B+vs+Flash-Next+on+a+12GB+GPU+%2B+32GB+RAM+%28Same+6+Jobs%29&lang=en&timestamp=1791555309&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen 3.8 27B vs Flash-Next on a 12GB GPU + 32GB RAM (Same 6 Jobs)")](https://www.youtube.com/watch?v=YMZ8vKNqi9c)
 [![Can a 12GB GPU + 32GB RAM Replace Your Claude Code Plan](https://ytcards.demolab.com/?id=N-xzyRzjYRA&title=Can+a+12GB+GPU+%2B+32GB+RAM+Replace+Your+Claude+Code+Plan&lang=en&timestamp=1791290615&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Can a 12GB GPU + 32GB RAM Replace Your Claude Code Plan")](https://www.youtube.com/watch?v=N-xzyRzjYRA)
-[![How Good Is Strata's Qwen Coder on 32GB RAM? (The Brutally Honest Test)](https://ytcards.demolab.com/?id=xze2CeR2Zu0&title=How+Good+Is+Strata%27s+Qwen+Coder+on+32GB+RAM%3F+%28The+Brutally+Honest+Test%29&lang=en&timestamp=1790948826&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "How Good Is Strata's Qwen Coder on 32GB RAM? (The Brutally Honest Test)")](https://www.youtube.com/watch?v=xze2CeR2Zu0)
 <!-- END YT-NOCODEABODE -->
 
 </div>
