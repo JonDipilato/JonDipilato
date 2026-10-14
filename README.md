@@ -197,7 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
-
+[![Ask Your AI Receptionist If It's A Real Person](https://ytcards.demolab.com/?id=6IQVoopa0Sw&title=Ask+Your+AI+Receptionist+If+It%27s+A+Real+Person&lang=en&timestamp=1791673552&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Ask Your AI Receptionist If It's A Real Person")](https://www.youtube.com/shorts/6IQVoopa0Sw)
+[![Ask ChatGPT Who The Best Plumber In Your Town Is](https://ytcards.demolab.com/?id=JjAXxGXSSdA&title=Ask+ChatGPT+Who+The+Best+Plumber+In+Your+Town+Is&lang=en&timestamp=1791414301&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Ask ChatGPT Who The Best Plumber In Your Town Is")](https://www.youtube.com/shorts/JjAXxGXSSdA)
+[![Best Field Service Software 2026 (I pulled the prices)](https://ytcards.demolab.com/?id=pfRJeeM0TGU&title=Best+Field+Service+Software+2026+%28I+pulled+the+prices%29&lang=en&timestamp=1789524642&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Best Field Service Software 2026 (I pulled the prices)")](https://www.youtube.com/watch?v=pfRJeeM0TGU)
 <!-- END YT-JONDIPILATO -->
 
 </div>
