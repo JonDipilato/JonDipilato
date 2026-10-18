@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![My Cookie Pop-Up Was Covering My Call Button](https://ytcards.demolab.com/?id=EcuqhuEA9D0&title=My+Cookie+Pop-Up+Was+Covering+My+Call+Button&lang=en&timestamp=1792278315&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "My Cookie Pop-Up Was Covering My Call Button")](https://www.youtube.com/shorts/EcuqhuEA9D0)
 [![One Tiny Step That Stops Robocalls](https://ytcards.demolab.com/?id=TEKCvDaVY_M&title=One+Tiny+Step+That+Stops+Robocalls&lang=en&timestamp=1792019141&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "One Tiny Step That Stops Robocalls")](https://www.youtube.com/shorts/TEKCvDaVY_M)
 [![Ask Your AI Receptionist If It's A Real Person](https://ytcards.demolab.com/?id=6IQVoopa0Sw&title=Ask+Your+AI+Receptionist+If+It%27s+A+Real+Person&lang=en&timestamp=1791673552&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Ask Your AI Receptionist If It's A Real Person")](https://www.youtube.com/shorts/6IQVoopa0Sw)
-[![Ask ChatGPT Who The Best Plumber In Your Town Is](https://ytcards.demolab.com/?id=JjAXxGXSSdA&title=Ask+ChatGPT+Who+The+Best+Plumber+In+Your+Town+Is&lang=en&timestamp=1791414301&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Ask ChatGPT Who The Best Plumber In Your Town Is")](https://www.youtube.com/shorts/JjAXxGXSSdA)
 <!-- END YT-JONDIPILATO -->
 
 </div>
