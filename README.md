@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![NVIDIA Says 24GB...  I Ran Their 74B Model on a 12GB GPU + 32GB RAM](https://ytcards.demolab.com/?id=AHC_M07HYrE&title=NVIDIA+Says+24GB...++I+Ran+Their+74B+Model+on+a+12GB+GPU+%2B+32GB+RAM&lang=en&timestamp=1792499982&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "NVIDIA Says 24GB...  I Ran Their 74B Model on a 12GB GPU + 32GB RAM")](https://www.youtube.com/watch?v=AHC_M07HYrE)
 [![Hype or not? Local AI on a Normal Gaming PC  Tested..](https://ytcards.demolab.com/?id=MuGIaoXcsso&title=Hype+or+not%3F+Local+AI+on+a+Normal+Gaming+PC++Tested..&lang=en&timestamp=1792176814&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Hype or not? Local AI on a Normal Gaming PC  Tested..")](https://www.youtube.com/watch?v=MuGIaoXcsso)
 [![llama.cpp Just Got an Expert Cache...  Does It Beat Strata on 12GB?!](https://ytcards.demolab.com/?id=BSEDJFnvdqE&title=llama.cpp+Just+Got+an+Expert+Cache...++Does+It+Beat+Strata+on+12GB%3F%21&lang=en&timestamp=1792155138&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "llama.cpp Just Got an Expert Cache...  Does It Beat Strata on 12GB?!")](https://www.youtube.com/watch?v=BSEDJFnvdqE)
-[![Qwen 27B Ran Out at 4 :44  Strata's Qwen Coder Took 1 :56 #localai #localllm #qwen](https://ytcards.demolab.com/?id=zSjL3XOam8I&title=Qwen+27B+Ran+Out+at+4+%3A44++Strata%27s+Qwen+Coder+Took+1+%3A56+%23localai+%23localllm+%23qwen&lang=en&timestamp=1791990028&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen 27B Ran Out at 4 :44  Strata's Qwen Coder Took 1 :56 #localai #localllm #qwen")](https://www.youtube.com/shorts/zSjL3XOam8I)
 <!-- END YT-NOCODEABODE -->
 
 </div>
