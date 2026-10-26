@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![32GB of RAM and NVIDIA's 74B Still Crawled   Here's Why #localai #localllm #qwen](https://ytcards.demolab.com/?id=fEBjoXiTirE&title=32GB+of+RAM+and+NVIDIA%27s+74B+Still+Crawled+++Here%27s+Why+%23localai+%23localllm+%23qwen&lang=en&timestamp=1793022512&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "32GB of RAM and NVIDIA's 74B Still Crawled   Here's Why #localai #localllm #qwen")](https://www.youtube.com/shorts/fEBjoXiTirE)
 [![Strata 0.2 + Gyro S on a 12GB GPU + 32GB RAM (Same 6 Jobs)](https://ytcards.demolab.com/?id=WOoQjZKuEqk&title=Strata+0.2+%2B+Gyro+S+on+a+12GB+GPU+%2B+32GB+RAM+%28Same+6+Jobs%29&lang=en&timestamp=1792760487&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Strata 0.2 + Gyro S on a 12GB GPU + 32GB RAM (Same 6 Jobs)")](https://www.youtube.com/watch?v=WOoQjZKuEqk)
 [![Qwen 27B Ruled My 12GB Card. NVIDIA's 74B Just Challenged It..](https://ytcards.demolab.com/?id=AHC_M07HYrE&title=Qwen+27B+Ruled+My+12GB+Card.+NVIDIA%27s+74B+Just+Challenged+It..&lang=en&timestamp=1792499982&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Qwen 27B Ruled My 12GB Card. NVIDIA's 74B Just Challenged It..")](https://www.youtube.com/watch?v=AHC_M07HYrE)
-[![Hype or not? Local AI on a Normal Gaming PC  Tested..](https://ytcards.demolab.com/?id=MuGIaoXcsso&title=Hype+or+not%3F+Local+AI+on+a+Normal+Gaming+PC++Tested..&lang=en&timestamp=1792176814&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Hype or not? Local AI on a Normal Gaming PC  Tested..")](https://www.youtube.com/watch?v=MuGIaoXcsso)
 <!-- END YT-NOCODEABODE -->
 
 </div>
