@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![I Ran DeepSeek's 763B on (One 12GB Card + 32GB RAM)](https://ytcards.demolab.com/?id=LvMy5OYp5AU&title=I+Ran+DeepSeek%27s+763B+on+%28One+12GB+Card+%2B+32GB+RAM%29&lang=en&timestamp=1793357697&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Ran DeepSeek's 763B on (One 12GB Card + 32GB RAM)")](https://www.youtube.com/watch?v=LvMy5OYp5AU)
 [![Claude Code Without Claude?!... NVIDIA's Free 74B Went 24 of 24 #localai #localllm](https://ytcards.demolab.com/?id=922L2oWEj60&title=Claude+Code+Without+Claude%3F%21...+NVIDIA%27s+Free+74B+Went+24+of+24+%23localai+%23localllm&lang=en&timestamp=1793197837&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Claude Code Without Claude?!... NVIDIA's Free 74B Went 24 of 24 #localai #localllm")](https://www.youtube.com/shorts/922L2oWEj60)
 [![Flint on a 12GB GPU + 32GB RAM (Same 6 Jobs)](https://ytcards.demolab.com/?id=prxM3hhKaKU&title=Flint+on+a+12GB+GPU+%2B+32GB+RAM+%28Same+6+Jobs%29&lang=en&timestamp=1793105271&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Flint on a 12GB GPU + 32GB RAM (Same 6 Jobs)")](https://www.youtube.com/watch?v=prxM3hhKaKU)
-[![32GB of RAM and NVIDIA's 74B Still Crawled   Here's Why #localai #localllm #qwen](https://ytcards.demolab.com/?id=fEBjoXiTirE&title=32GB+of+RAM+and+NVIDIA%27s+74B+Still+Crawled+++Here%27s+Why+%23localai+%23localllm+%23qwen&lang=en&timestamp=1793022512&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "32GB of RAM and NVIDIA's 74B Still Crawled   Here's Why #localai #localllm #qwen")](https://www.youtube.com/shorts/fEBjoXiTirE)
 <!-- END YT-NOCODEABODE -->
 
 </div>
