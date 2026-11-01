@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![The AI Voice Isn't The Point](https://ytcards.demolab.com/?id=YIcqOmxCOsQ&title=The+AI+Voice+Isn%27t+The+Point&lang=en&timestamp=1793487641&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The AI Voice Isn't The Point")](https://www.youtube.com/shorts/YIcqOmxCOsQ)
 [![Test Your Own Contact Form Tonight](https://ytcards.demolab.com/?id=BfZzC8nbtRI&title=Test+Your+Own+Contact+Form+Tonight&lang=en&timestamp=1793228783&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Test Your Own Contact Form Tonight")](https://www.youtube.com/shorts/BfZzC8nbtRI)
 [![Google Put This In Writing: Reply To Your Reviews](https://ytcards.demolab.com/?id=Vp-qFRj70cM&title=Google+Put+This+In+Writing%3A+Reply+To+Your+Reviews&lang=en&timestamp=1792883088&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Google Put This In Writing: Reply To Your Reviews")](https://www.youtube.com/shorts/Vp-qFRj70cM)
-[![Ask Your Website Company This One Question](https://ytcards.demolab.com/?id=qi3JaTZfTXs&title=Ask+Your+Website+Company+This+One+Question&lang=en&timestamp=1792624004&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Ask Your Website Company This One Question")](https://www.youtube.com/shorts/qi3JaTZfTXs)
 <!-- END YT-JONDIPILATO -->
 
 </div>
