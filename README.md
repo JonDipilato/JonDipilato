@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![Write Down The 10 Questions Customers Ask You](https://ytcards.demolab.com/?id=ZR00VU1nqAU&title=Write+Down+The+10+Questions+Customers+Ask+You&lang=en&timestamp=1793837103&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Write Down The 10 Questions Customers Ask You")](https://www.youtube.com/shorts/ZR00VU1nqAU)
 [![I Let Meta's Free AI Shop for My Own Business](https://ytcards.demolab.com/?id=jMi-pv38VfY&title=I+Let+Meta%27s+Free+AI+Shop+for+My+Own+Business&lang=en&timestamp=1793573342&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Let Meta's Free AI Shop for My Own Business")](https://www.youtube.com/watch?v=jMi-pv38VfY)
 [![The AI Voice Isn't The Point](https://ytcards.demolab.com/?id=YIcqOmxCOsQ&title=The+AI+Voice+Isn%27t+The+Point&lang=en&timestamp=1793487641&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The AI Voice Isn't The Point")](https://www.youtube.com/shorts/YIcqOmxCOsQ)
-[![Test Your Own Contact Form Tonight](https://ytcards.demolab.com/?id=BfZzC8nbtRI&title=Test+Your+Own+Contact+Form+Tonight&lang=en&timestamp=1793228783&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Test Your Own Contact Form Tonight")](https://www.youtube.com/shorts/BfZzC8nbtRI)
 <!-- END YT-JONDIPILATO -->
 
 </div>
