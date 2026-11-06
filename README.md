@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![Reddit Says Ripple Takes Two 3090s... So I Ran It on My Gaming PC](https://ytcards.demolab.com/?id=kSEMlUZgLq0&title=Reddit+Says+Ripple+Takes+Two+3090s...+So+I+Ran+It+on+My+Gaming+PC&lang=en&timestamp=1793966746&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Reddit Says Ripple Takes Two 3090s... So I Ran It on My Gaming PC")](https://www.youtube.com/watch?v=kSEMlUZgLq0)
 [![Can Nanbeige 4.3 Beat Qwen 3.8 27B? (I Tested It on My 12GB GPU)](https://ytcards.demolab.com/?id=1gZP_NzMgQ8&title=Can+Nanbeige+4.3+Beat+Qwen+3.8+27B%3F+%28I+Tested+It+on+My+12GB+GPU%29&lang=en&timestamp=1793716645&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Can Nanbeige 4.3 Beat Qwen 3.8 27B? (I Tested It on My 12GB GPU)")](https://www.youtube.com/watch?v=1gZP_NzMgQ8)
 [![I Ran DeepSeek's 763B on (One 12GB Card + 32GB RAM)](https://ytcards.demolab.com/?id=LvMy5OYp5AU&title=I+Ran+DeepSeek%27s+763B+on+%28One+12GB+Card+%2B+32GB+RAM%29&lang=en&timestamp=1793367909&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "I Ran DeepSeek's 763B on (One 12GB Card + 32GB RAM)")](https://www.youtube.com/watch?v=LvMy5OYp5AU)
-[![Claude Code Without Claude?!... NVIDIA's Free 74B Went 24 of 24 #localai #localllm](https://ytcards.demolab.com/?id=922L2oWEj60&title=Claude+Code+Without+Claude%3F%21...+NVIDIA%27s+Free+74B+Went+24+of+24+%23localai+%23localllm&lang=en&timestamp=1793197837&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Claude Code Without Claude?!... NVIDIA's Free 74B Went 24 of 24 #localai #localllm")](https://www.youtube.com/shorts/922L2oWEj60)
 <!-- END YT-NOCODEABODE -->
 
 </div>
