@@ -185,9 +185,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-NOCODEABODE -->
+[![The 125B That Doesn't Fit My 12GB GPU Beat Qwen 27B (32GB RAM)](https://ytcards.demolab.com/?id=hygCD_IW1eY&title=The+125B+That+Doesn%27t+Fit+My+12GB+GPU+Beat+Qwen+27B+%2832GB+RAM%29&lang=en&timestamp=1794570066&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "The 125B That Doesn't Fit My 12GB GPU Beat Qwen 27B (32GB RAM)")](https://www.youtube.com/watch?v=hygCD_IW1eY)
 [![One Helper Doubled My 12GB Card!? The Other One Broke the Job...](https://ytcards.demolab.com/?id=l-5GwhspBk8&title=One+Helper+Doubled+My+12GB+Card%21%3F+The+Other+One+Broke+the+Job...&lang=en&timestamp=1794322146&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "One Helper Doubled My 12GB Card!? The Other One Broke the Job...")](https://www.youtube.com/watch?v=l-5GwhspBk8)
 [![Reddit Says Ripple Takes Two 3090s... So I Ran It on My Gaming PC](https://ytcards.demolab.com/?id=kSEMlUZgLq0&title=Reddit+Says+Ripple+Takes+Two+3090s...+So+I+Ran+It+on+My+Gaming+PC&lang=en&timestamp=1793976430&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Reddit Says Ripple Takes Two 3090s... So I Ran It on My Gaming PC")](https://www.youtube.com/watch?v=kSEMlUZgLq0)
-[![Can Nanbeige 4.3 Beat Qwen 3.8 27B? (I Tested It on My 12GB GPU)](https://ytcards.demolab.com/?id=1gZP_NzMgQ8&title=Can+Nanbeige+4.3+Beat+Qwen+3.8+27B%3F+%28I+Tested+It+on+My+12GB+GPU%29&lang=en&timestamp=1793716645&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Can Nanbeige 4.3 Beat Qwen 3.8 27B? (I Tested It on My 12GB GPU)")](https://www.youtube.com/watch?v=1gZP_NzMgQ8)
 <!-- END YT-NOCODEABODE -->
 
 </div>
