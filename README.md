@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![AI Receptionist Tip: Read 5 Calls Every Friday](https://ytcards.demolab.com/?id=BIi4bObIQR4&title=AI+Receptionist+Tip%3A+Read+5+Calls+Every+Friday&lang=en&timestamp=1795046829&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "AI Receptionist Tip: Read 5 Calls Every Friday")](https://www.youtube.com/shorts/BIi4bObIQR4)
 [![Review From Owner Jason | JSL Auto Detailing, Rutland MA](https://ytcards.demolab.com/?id=gjCoasdH5ck&title=Review+From+Owner+Jason+%7C+JSL+Auto+Detailing%2C+Rutland+MA&lang=en&timestamp=1795044396&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Review From Owner Jason | JSL Auto Detailing, Rutland MA")](https://www.youtube.com/shorts/gjCoasdH5ck)
 [![Contractor Website Test: Time How Long To Tap Call](https://ytcards.demolab.com/?id=jrxqrCewdEk&title=Contractor+Website+Test%3A+Time+How+Long+To+Tap+Call&lang=en&timestamp=1794701122&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Contractor Website Test: Time How Long To Tap Call")](https://www.youtube.com/shorts/jrxqrCewdEk)
-[![Old Phone Number Still Online? It Hurts Your Google](https://ytcards.demolab.com/?id=3sWK7IdZyGU&title=Old+Phone+Number+Still+Online%3F+It+Hurts+Your+Google&lang=en&timestamp=1794441930&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Old Phone Number Still Online? It Hurts Your Google")](https://www.youtube.com/shorts/3sWK7IdZyGU)
 <!-- END YT-JONDIPILATO -->
 
 </div>
