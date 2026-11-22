@@ -197,9 +197,9 @@ I build AI-native systems that eliminate manual work — AI agents, local AI, vo
 <div align="center">
 
 <!-- BEGIN YT-JONDIPILATO -->
+[![Paying For SEO? Ask What They Changed Last Month](https://ytcards.demolab.com/?id=l5vFcfOppVM&title=Paying+For+SEO%3F+Ask+What+They+Changed+Last+Month&lang=en&timestamp=1795305984&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Paying For SEO? Ask What They Changed Last Month")](https://www.youtube.com/shorts/l5vFcfOppVM)
 [![AI Receptionist Tip: Read 5 Calls Every Friday](https://ytcards.demolab.com/?id=BIi4bObIQR4&title=AI+Receptionist+Tip%3A+Read+5+Calls+Every+Friday&lang=en&timestamp=1795046829&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "AI Receptionist Tip: Read 5 Calls Every Friday")](https://www.youtube.com/shorts/BIi4bObIQR4)
 [![Review From Owner Jason | JSL Auto Detailing, Rutland MA](https://ytcards.demolab.com/?id=gjCoasdH5ck&title=Review+From+Owner+Jason+%7C+JSL+Auto+Detailing%2C+Rutland+MA&lang=en&timestamp=1795044396&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Review From Owner Jason | JSL Auto Detailing, Rutland MA")](https://www.youtube.com/shorts/gjCoasdH5ck)
-[![Contractor Website Test: Time How Long To Tap Call](https://ytcards.demolab.com/?id=jrxqrCewdEk&title=Contractor+Website+Test%3A+Time+How+Long+To+Tap+Call&lang=en&timestamp=1794701122&background_color=%23070B14&title_color=%23CBD7E6&stats_color=%238593A6&max_title_lines=1&width=260&border_radius=5 "Contractor Website Test: Time How Long To Tap Call")](https://www.youtube.com/shorts/jrxqrCewdEk)
 <!-- END YT-JONDIPILATO -->
 
 </div>
